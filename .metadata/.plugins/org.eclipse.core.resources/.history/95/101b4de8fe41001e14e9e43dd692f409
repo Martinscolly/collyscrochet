@@ -1,0 +1,5 @@
+package com.collyscrochet.sistema.controller;
+
+public class ClienteController {
+
+}
